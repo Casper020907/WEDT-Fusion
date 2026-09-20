@@ -303,20 +303,7 @@ described in the corresponding paper.
 
 ---
 
-# Citation
 
-
-If you find this repository useful, please cite:
-
-
-```bibtex
-@article{wedt_fusion2026,
-  title={WEDT-Fusion: Wavelet-Enhanced Dual-Branch Temporal Fusion Network for Multivariate Time Series Classification},
-  author={Author Name},
-  journal={Neural Networks},
-  year={2026}
-}
-```
 
 
 ---
@@ -362,47 +349,3 @@ The source code of WEDT-Fusion is publicly available at:
 https://github.com/yourname/WEDT-Fusion
 ```
 
-
-The archived version is available through Zenodo:
-
-
-```
-DOI:
-https://doi.org/10.5281/zenodo.xxxxxxx
-```
-
-
----
-
-# Funding
-
-
-This research received no external funding.
-
-
----
-
-# Acknowledgement
-
-
-This repository is built upon the open-source framework:
-
-- Time-Series-Library (TSLib)
-
-
-We sincerely thank the authors of TSLib
-for providing an excellent platform for time-series research.
-
-
----
-
-# Contact
-
-
-For questions and discussions:
-
-
-```
-Email:
-your_email@example.com
-```
