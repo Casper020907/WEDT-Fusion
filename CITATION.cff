@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+
+message: "If you use this software, please cite the following paper."
+
+title: "WEDT-Fusion: Wavelet-Enhanced Dual-Branch Temporal Fusion Network for Multivariate Time Series Classification"
+
+authors:
+  - family-names: "Li"
+    given-names: "Kewen"
+
+version: 1.0.0
+
+date-released: 2026-09-20
+
+repository-code: "https://github.com/yourname/WEDT-Fusion"
+
+license: MIT
+
+keywords:
+  - multivariate time series classification
+  - deep learning
+  - wavelet transform
+  - graph neural network
+  - temporal fusion
+
+
+preferred-citation:
+  type: article
+
+  title: "WEDT-Fusion: Wavelet-Enhanced Dual-Branch Temporal Fusion Network for Multivariate Time Series Classification"
+
+  authors:
+    - family-names: "Chen"
+      given-names: "Sihan"
+
+  journal: "Neural Networks"
+
+  year: 2026
